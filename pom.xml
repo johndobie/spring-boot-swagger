@@ -12,7 +12,7 @@
     <artifactId>spring-boot-swagger</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-swagger</name>
-    <description>A demonstration of handling errorModels in Spring Boot</description>
+    <description>A demonstration of Swagger in Spring Boot Microservices</description>
 
     <properties>
         <java.version>17</java.version>
